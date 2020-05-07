@@ -39,7 +39,7 @@ $ pip2 install -r requirements.txt
 $ python2 fblop.py
 ```
 # [ Screenshot ]
-<img src="images/fblop.png"/>
+<img src=".images/fblop.png"/>
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
